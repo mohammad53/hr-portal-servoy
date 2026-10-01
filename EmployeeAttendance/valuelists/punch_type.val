@@ -1,0 +1,10 @@
+{
+    "addEmptyValue":0,
+    "customValues":"In|IN\r\nOut|OUT",
+    "displayValueType":12,
+    "name":"punch_type",
+    "realValueType":12,
+    "typeid":34,
+    "uuid":"63C47D86-C7FD-5BB2-A769-B831C8217E1D",
+    "valueListType":0
+}

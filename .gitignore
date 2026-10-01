@@ -1,0 +1,17 @@
+# Servoy / Eclipse workspace state (machine specific: caches, logs, UI layout)
+.metadata/
+
+# Form generator (Python): kept on the developer's machine only, not published
+tools/**/*.py
+__pycache__/
+*.pyc
+
+# Local-only files: never commit credentials or machine-specific notes
+*.local.*
+.env
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+*.swp
+*~

@@ -1,0 +1,10 @@
+{
+    "addEmptyValue":0,
+    "customValues":"Yes|1\r\nNo|0",
+    "displayValueType":12,
+    "name":"yes_no",
+    "realValueType":4,
+    "typeid":34,
+    "uuid":"097FA9DA-DE6C-5D6D-855D-115609AA2E1B",
+    "valueListType":0
+}

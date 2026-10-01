@@ -1,0 +1,10 @@
+{
+    "addEmptyValue":0,
+    "customValues":"Dark|dark\r\nLight|light\r\nColoured|brand",
+    "displayValueType":12,
+    "name":"sidebar_style",
+    "realValueType":12,
+    "typeid":34,
+    "uuid":"914B51F3-B8D5-53ED-9771-56D98A8B7CB4",
+    "valueListType":0
+}

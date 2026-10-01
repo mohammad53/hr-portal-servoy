@@ -1,0 +1,15 @@
+{
+    "addEmptyValue":1,
+    "dataProviderID1":"first_name",
+    "dataProviderID2":"last_name",
+    "dataProviderID3":"employee_id",
+    "dataSource":"db:/attendance/employees",
+    "name":"employees",
+    "returnDataProviders":4,
+    "separator":" ",
+    "showDataProviders":3,
+    "sortOptions":"first_name asc, last_name asc",
+    "typeid":34,
+    "uuid":"1878CB17-9579-5E12-9933-F3B964B5551E",
+    "valueListType":1
+}

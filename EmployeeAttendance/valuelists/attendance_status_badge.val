@@ -1,0 +1,10 @@
+{
+    "addEmptyValue":0,
+    "customValues":"<span class=\"badge bg-success\">Present</span>|PRESENT\r\n<span class=\"badge bg-warning text-dark\">Late</span>|LATE\r\n<span class=\"badge bg-info text-dark\">Half day</span>|HALF_DAY\r\n<span class=\"badge bg-dark\">Missing punch</span>|MISSING_PUNCH\r\n<span class=\"badge bg-light text-dark border\">Not in yet</span>|PENDING\r\n<span class=\"badge bg-danger\">Absent</span>|ABSENT\r\n<span class=\"badge bg-primary\">On leave</span>|ON_LEAVE\r\n<span class=\"badge bg-secondary\">Holiday</span>|HOLIDAY\r\n<span class=\"badge bg-light text-muted border\">Weekly off</span>|WEEKLY_OFF",
+    "displayValueType":12,
+    "name":"attendance_status_badge",
+    "realValueType":12,
+    "typeid":34,
+    "uuid":"03506EDE-09FA-5173-A770-2F8744724922",
+    "valueListType":0
+}

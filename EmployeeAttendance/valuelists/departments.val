@@ -1,0 +1,13 @@
+{
+    "addEmptyValue":1,
+    "dataProviderID1":"name",
+    "dataProviderID2":"department_id",
+    "dataSource":"db:/attendance/departments",
+    "name":"departments",
+    "returnDataProviders":2,
+    "showDataProviders":1,
+    "sortOptions":"name asc",
+    "typeid":34,
+    "uuid":"DF1712FB-9977-5A54-AF95-26B2697BC8E7",
+    "valueListType":1
+}

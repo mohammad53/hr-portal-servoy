@@ -1,0 +1,13 @@
+{
+    "addEmptyValue":1,
+    "dataProviderID1":"name",
+    "dataProviderID2":"designation_id",
+    "dataSource":"db:/attendance/designations",
+    "name":"designations",
+    "returnDataProviders":2,
+    "showDataProviders":1,
+    "sortOptions":"name asc",
+    "typeid":34,
+    "uuid":"B91F0193-6DC9-5290-95B5-7EC5A8EBEF6D",
+    "valueListType":1
+}

@@ -1,0 +1,13 @@
+{
+    "addEmptyValue":1,
+    "dataProviderID1":"name",
+    "dataProviderID2":"shift_id",
+    "dataSource":"db:/attendance/shifts",
+    "name":"shifts",
+    "returnDataProviders":2,
+    "showDataProviders":1,
+    "sortOptions":"name asc",
+    "typeid":34,
+    "uuid":"EB21EBB8-FA70-546E-8D0D-6621F7B072B5",
+    "valueListType":1
+}

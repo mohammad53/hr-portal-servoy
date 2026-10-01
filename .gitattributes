@@ -1,0 +1,8 @@
+# The form generator and Servoy both write LF; keep files byte-identical on every machine
+* text=auto eol=lf
+
+# Binary files
+*.zip binary
+*.png binary
+*.jpg binary
+*.ico binary

@@ -1,0 +1,34 @@
+{
+    "columns":[
+        {
+            "allowNull":true,
+            "creationOrderIndex":-1,
+            "dataType":93,
+            "name":"modified_at"
+        },
+        {
+            "allowNull":true,
+            "creationOrderIndex":-1,
+            "dataType":12,
+            "length":50,
+            "name":"modified_by"
+        },
+        {
+            "allowNull":false,
+            "creationOrderIndex":-1,
+            "dataType":12,
+            "flags":1,
+            "length":50,
+            "name":"setting_key"
+        },
+        {
+            "allowNull":true,
+            "creationOrderIndex":-1,
+            "dataType":12,
+            "length":2147483647,
+            "name":"setting_value"
+        }
+    ],
+    "name":"app_settings",
+    "tableType":0
+}

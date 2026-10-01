@@ -1,0 +1,18 @@
+{
+    "allowCreationRelatedRecords":false,
+    "allowParentDeleteWhenHavingRelatedRecords":false,
+    "foreignDataSource":"db:/attendance/employees",
+    "items":[
+        {
+            "foreignColumnName":"employee_id",
+            "primaryDataProviderID":"employee_id",
+            "typeid":23,
+            "uuid":"5CA30676-67FB-5BD2-9871-C156B05C1C30"
+        }
+    ],
+    "joinType":1,
+    "name":"attendance_to_employees",
+    "primaryDataSource":"db:/attendance/attendance",
+    "typeid":22,
+    "uuid":"F90D30A1-D44B-56DA-9AA6-E8D20E31EC99"
+}

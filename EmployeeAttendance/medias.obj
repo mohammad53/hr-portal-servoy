@@ -1,0 +1,37 @@
+[
+{
+    "encapsulation":0,
+    "mimeType":"text/css",
+    "name":"EmployeeAttendance.less",
+    "typeid":37,
+    "uuid":"975D9766-5D11-4701-BEDF-EC7823C39C03"
+},
+{
+    "encapsulation":0,
+    "mimeType":"text/css",
+    "name":"manifest.json",
+    "typeid":37,
+    "uuid":"5B7D4976-5072-4DC0-8EF3-8D05C07A7AD1"
+},
+{
+    "encapsulation":0,
+    "mimeType":"text/css",
+    "name":"solution_properties.less",
+    "typeid":37,
+    "uuid":"A08B5880-2FA7-4A3C-A4E4-7F244AF99FC1"
+},
+{
+    "encapsulation":0,
+    "mimeType":"text/css",
+    "name":"variants.json",
+    "typeid":37,
+    "uuid":"80179AD4-D3E2-4991-9B8B-B1527C474A95"
+},
+{
+    "encapsulation":0,
+    "mimeType":"text/css",
+    "name":"webapp144.png",
+    "typeid":37,
+    "uuid":"DA7B14C2-E51A-4AE1-BE34-62C365D4958F"
+}
+]

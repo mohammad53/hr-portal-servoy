@@ -1,0 +1,10 @@
+{
+    "addEmptyValue":0,
+    "customValues":"Blue|blue\r\nIndigo|indigo\r\nTeal|teal\r\nCyan|cyan\r\nGreen|green\r\nPurple|purple\r\nPink|pink\r\nOrange|orange\r\nRed|red\r\nSlate|slate",
+    "displayValueType":12,
+    "name":"theme_presets",
+    "realValueType":12,
+    "typeid":34,
+    "uuid":"A036B2B6-EE82-5B46-BE0D-84B6CDF2B919",
+    "valueListType":0
+}

@@ -1,0 +1,13 @@
+{
+    "addEmptyValue":1,
+    "dataProviderID1":"name",
+    "dataProviderID2":"pattern_id",
+    "dataSource":"db:/attendance/shift_patterns",
+    "name":"shift_patterns",
+    "returnDataProviders":2,
+    "showDataProviders":1,
+    "sortOptions":"name asc",
+    "typeid":34,
+    "uuid":"3FA368E2-C4CD-5047-84DF-C9D1E4B70535",
+    "valueListType":1
+}

@@ -1,0 +1,18 @@
+{
+    "allowCreationRelatedRecords":true,
+    "allowParentDeleteWhenHavingRelatedRecords":false,
+    "foreignDataSource":"db:/attendance/employee_shift_assignments",
+    "items":[
+        {
+            "foreignColumnName":"employee_id",
+            "primaryDataProviderID":"employee_id",
+            "typeid":23,
+            "uuid":"4019EDE9-C504-45E0-AB55-8AE1A34B6659"
+        }
+    ],
+    "joinType":1,
+    "name":"employees_to_employee_shift_assignments",
+    "primaryDataSource":"db:/attendance/employees",
+    "typeid":22,
+    "uuid":"E33EAAD3-6017-4C6A-9EA7-460AA1340417"
+}

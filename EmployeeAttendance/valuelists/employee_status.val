@@ -1,0 +1,10 @@
+{
+    "addEmptyValue":1,
+    "customValues":"Active|ACTIVE\r\nInactive|INACTIVE\r\nTerminated|TERMINATED",
+    "displayValueType":12,
+    "name":"employee_status",
+    "realValueType":12,
+    "typeid":34,
+    "uuid":"EE5EED5E-06EC-595E-8858-FA29D46AFB0B",
+    "valueListType":0
+}

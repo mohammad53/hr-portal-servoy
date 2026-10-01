@@ -1,0 +1,10 @@
+{
+    "addEmptyValue":1,
+    "customValues":"Present|PRESENT\r\nLate|LATE\r\nHalf day|HALF_DAY\r\nMissing punch|MISSING_PUNCH\r\nNot in yet|PENDING\r\nAbsent|ABSENT\r\nOn leave|ON_LEAVE\r\nHoliday|HOLIDAY\r\nWeekly off|WEEKLY_OFF",
+    "displayValueType":12,
+    "name":"attendance_status",
+    "realValueType":12,
+    "typeid":34,
+    "uuid":"70BB9F1C-35DB-59BB-8BCF-56DCF7E1A56E",
+    "valueListType":0
+}
